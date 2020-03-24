@@ -17,3 +17,9 @@ My Fourth SwiftUI App
 ---
 + `UIViewRepresentable` to convert UIKit component to SwiftUI component
 + `NavigationLink` to push next screen on `List` component with arrow on right side
+
+## Main view
+<img src="https://github.com/nurtugan/H4X0R-News/blob/master/Screen%20Shot%202020-03-24%20at%207.24.31%20PM.png" alt="" width="371" height="648">
+
+## Detail view
+<img src="https://github.com/nurtugan/H4X0R-News/blob/master/Screen%20Shot%202020-03-24%20at%207.24.48%20PM.png" alt="" width="371" height="648">
