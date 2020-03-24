@@ -23,3 +23,6 @@ My Fourth SwiftUI App
 
 ## Detail view
 <img src="https://github.com/nurtugan/H4X0R-News/blob/master/Screen%20Shot%202020-03-24%20at%207.24.48%20PM.png" alt="" width="371" height="648">
+
+## Catalyst Framework
+<img src="https://github.com/nurtugan/H4X0R-News/blob/master/Screen%20Shot%202020-03-24%20at%207.37.16%20PM.png" alt="" width="667" height="537">
