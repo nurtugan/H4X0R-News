@@ -11,5 +11,5 @@ My Fourth SwiftUI App
 + `ObservableObject` protocol to use Observer Pattern
 + `@Published` property wrapper (Logic side)
 + `@ObservedObject` property wrapper (UI side), read below
-> __Attention! ->__ Any type you mark with __@ObservedObject__ must conform to the __ObservableObject__ protocol, which in turn means __it must be a class rather than a struct__. This isn’t optional – __SwiftUI requires us to use a class__ here. Source: https://www.hackingwithswift.com/quick-start/swiftui/what-is-the-observedobject-property-wrapper
+> __Attention! ->__ Any type you mark with __@ObservedObject__ must conform to the __ObservableObject__ protocol, which in turn means __it must be a class rather than a struct__. This isn’t optional – __SwiftUI requires us to use a class__ here. <br/> <br/> Source: https://www.hackingwithswift.com/quick-start/swiftui/what-is-the-observedobject-property-wrapper
 + `.onAppear {}` analog `viewDidLoad()`, should be placed before ending curly brace of `body` property
